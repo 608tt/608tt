@@ -8,6 +8,7 @@ Work inquiries / 工作联系：[2032087242@qq.com](mailto:2032087242@qq.com)
 
 | Project | What it helps you do | Stack |
 |---|---|---|
+| [Audio to Text](https://github.com/608tt/audio-to-text) · [Web app](https://608tt.github.io/audio-to-text/) | Transcribe MP3/M4A recordings in Chinese or English; export TXT, Word or Markdown | JavaScript · Whisper · ONNX |
 | [Source Ledger](https://github.com/608tt/source-ledger) | Search local sources, keep traceable excerpts and track human review; optional read-only MCP tools | Python · SQLite · optional MCP |
 | [Label Loop](https://github.com/608tt/label-loop) | Label text, review it, send it back and export only approved results | FastAPI · SQLite |
 | [Rubric Gate](https://github.com/608tt/rubric-gate) | Check explicit text requirements; let hard failures veto a high score | Python · JSON rules |
