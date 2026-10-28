@@ -16,6 +16,13 @@ Source Ledger and Rubric Gate run locally; their report previews are screenshots
 Audio to Text has a hosted app; its first run downloads models.
 Review marks record human declarations, transcripts need checking, and rule checks do not establish factual or legal correctness.
 
+## New experiments / 新项目
+
+| Project | What it does | Try |
+|---|---|---|
+| **[Scroll Words · 刷着记](https://github.com/608tt/scroll-words)** | 自选词库，在抖音、小红书电脑网页浏览间隙展示英文与中文释义。桌面扩展预览版；不支持 iPhone 原生 App 内插卡。 | [互动演示](https://608tt.github.io/scroll-words/) · [下载扩展](https://608tt.github.io/scroll-words/scroll-words-extension.zip) |
+| **[Task Relay · 任务接力](https://github.com/608tt/task-relay)** | 本地排队、预约开始、限额等待与顺序执行。Codex CLI 已实测；Claude Code 待真实账号验证；聊天网页为手动接力。 | [互动演示（不调用 AI）](https://608tt.github.io/task-relay/) · [安装说明](https://github.com/608tt/task-relay#quick-start) |
+
 <details>
 <summary>More projects / 更多项目：数据标注与轻量交互</summary>
 
